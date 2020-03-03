@@ -84,7 +84,10 @@ CmdletsToExport = 'Get-AzApplicationInsights', 'New-AzApplicationInsights',
                'Remove-AzApplicationInsightsContinuousExport', 
                'Get-AzApplicationInsightsApiKey', 
                'New-AzApplicationInsightsApiKey', 
-               'Remove-AzApplicationInsightsApiKey'
+               'Remove-AzApplicationInsightsApiKey',
+               'New-AzApplicationInsightsWebTests',
+               'Get-AzApplicationInsightsWebTests',
+               'Remove-AzApplicationInsightsWebTests'
 
 # Variables to export from this module
 # VariablesToExport = @()
